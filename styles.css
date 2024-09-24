@@ -1,0 +1,132 @@
+body {
+    background: black;
+    margin:0%
+}
+
+div.background {
+  
+    display: flex;
+    flex: content;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: black;
+    height:900px;
+}
+
+div.post {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background: white;
+   
+    padding-bottom: 25px;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;  
+}
+
+
+ div.namedate {
+    display:flex;
+    flex-direction: row;
+    height: 5px;
+    padding-bottom: 10%;
+   
+}
+
+i {
+    display:flex;
+    font-size: 30px;
+    padding-top: 10%;
+    padding-bottom: 20%;
+   
+}
+
+div.name {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    text-align: left;
+}
+
+i.fa-html5 {
+    padding-left: 10px;
+    padding-top: 18px;
+    padding-right: 11px;
+}
+
+    
+
+div.Icon {
+    width: 50%;
+    text-align: right;
+    padding-top: 12px;
+    padding-right: 10px;
+    margin-left: 72%;
+
+ 
+}
+
+.iconButton {
+    width: 50px;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+div.container img {
+height: 100%;
+width: 100%;
+}
+
+div.buttons {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    padding-left: 1px;
+    
+}
+
+.button1 {
+    width: 50px;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.button1:hover{
+color: red;
+}
+
+.button2 {
+    width: 50px;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.button3 {
+    width: 50px;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.button4 {
+    width: 50px;
+    margin-left: 65%;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.likedBy {
+    padding-top: 15px;
+    padding-left: 8px;  
+}
+
+div.description { 
+   padding-top: 20px;
+   padding-left: 8px;
+}
